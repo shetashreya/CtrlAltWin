@@ -1,0 +1,206 @@
+Aug 11 17:48:32 gftcq systemd[1]: Started freestyle-run-dev.service - Dev Server API.
+Aug 11 17:48:32 gftcq npm[807]: > default_template@0.1.0 dev
+Aug 11 17:48:32 gftcq npm[807]: > next dev
+Aug 11 17:48:34 gftcq npm[835]:    ▲ Next.js 15.3.0
+Aug 11 17:48:34 gftcq npm[835]:    - Local:        http://localhost:3000
+Aug 11 17:48:34 gftcq npm[835]:    - Network:      http://172.16.0.2:3000
+Aug 11 17:48:34 gftcq npm[835]:  ✓ Starting...
+Aug 11 17:48:34 gftcq npm[835]: Attention: Next.js now collects completely anonymous telemetry regarding usage.
+Aug 11 17:48:34 gftcq npm[835]: This information is used to shape Next.js' roadmap and prioritize features.
+Aug 11 17:48:34 gftcq npm[835]: You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+Aug 11 17:48:34 gftcq npm[835]: https://nextjs.org/telemetry
+Aug 11 17:48:35 gftcq npm[835]:  ✓ Ready in 1801ms
+Aug 11 17:48:37 gftcq npm[835]:  ○ Compiling /middleware ...
+Aug 11 17:48:38 gftcq npm[835]:  ✓ Compiled /middleware in 1078ms (202 modules)
+Aug 11 17:48:39 gftcq npm[835]:  ○ Compiling / ...
+Aug 11 17:48:44 gftcq npm[835]:  ✓ Compiled / in 5.9s (722 modules)
+Aug 11 17:48:44 gftcq npm[835]:  GET / 200 in 6352ms
+Aug 30 07:38:41 pjlzc npm[835]:  GET / 200 in 56ms
+Aug 30 07:38:41 pjlzc npm[835]:  GET / 200 in 34ms
+Aug 30 07:38:42 pjlzc npm[835]:    Reload env: .env
+Aug 30 07:38:45 pjlzc npm[835]:  ✓ Compiled in 3.6s (922 modules)
+Aug 30 07:38:45 pjlzc npm[835]:  HEAD / 200 in 2148ms
+Aug 30 07:38:45 pjlzc npm[835]:  GET / 200 in 1351ms
+Aug 30 07:38:46 pjlzc npm[835]:  HEAD / 200 in 45ms
+Aug 30 07:38:49 pjlzc npm[835]:  HEAD / 200 in 28ms
+Aug 30 07:38:50 pjlzc npm[835]:  ⚠ Blocked cross-origin request from pjlzc.vm.freestyle.sh to /_next/* resource. To allow this, configure "allowedDevOrigins" in next.config
+Aug 30 07:38:50 pjlzc npm[835]: Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+Aug 30 07:38:52 pjlzc npm[835]:  HEAD / 200 in 27ms
+Aug 30 07:38:55 pjlzc npm[835]:  HEAD / 200 in 28ms
+Aug 30 07:38:59 pjlzc npm[835]:  HEAD / 200 in 39ms
+Aug 30 07:39:02 pjlzc npm[835]:  HEAD / 200 in 30ms
+Aug 30 07:39:05 pjlzc npm[835]:  HEAD / 200 in 25ms
+Aug 30 07:39:08 pjlzc npm[835]:  HEAD / 200 in 29ms
+Aug 30 07:39:10 pjlzc npm[835]:  HEAD / 200 in 28ms
+Aug 30 07:39:14 pjlzc npm[835]:  HEAD / 200 in 25ms
+Aug 30 07:39:15 pjlzc npm[835]:  GET / 200 in 31ms
+Aug 30 07:39:17 pjlzc npm[835]:  HEAD / 200 in 30ms
+Aug 30 07:39:20 pjlzc npm[835]:  HEAD / 200 in 26ms
+Aug 30 07:39:23 pjlzc npm[835]:  HEAD / 200 in 32ms
+Aug 30 07:39:26 pjlzc npm[835]:  HEAD / 200 in 32ms
+Aug 30 07:39:29 pjlzc npm[835]:  HEAD / 200 in 27ms
+Aug 30 07:39:32 pjlzc npm[835]:  HEAD / 200 in 29ms
+Aug 30 07:39:35 pjlzc npm[835]:  HEAD / 200 in 31ms
+Aug 30 07:39:38 pjlzc npm[835]:  HEAD / 200 in 28ms
+Aug 30 07:39:41 pjlzc npm[835]:  HEAD / 200 in 40ms
+Aug 30 07:39:44 pjlzc npm[835]:  HEAD / 200 in 99ms
+Aug 30 07:39:49 pjlzc npm[835]:  HEAD / 200 in 32ms
+Aug 30 07:39:49 pjlzc npm[835]:  HEAD / 200 in 27ms
+Aug 30 07:39:52 pjlzc npm[835]:  HEAD / 200 in 25ms
+Aug 30 07:39:55 pjlzc npm[835]:  HEAD / 200 in 29ms
+Aug 30 07:39:58 pjlzc npm[835]:  HEAD / 200 in 23ms
+Aug 30 07:40:01 pjlzc npm[835]:  HEAD / 200 in 23ms
+Aug 30 07:40:04 pjlzc npm[835]:  HEAD / 200 in 30ms
+Aug 30 07:40:07 pjlzc npm[835]:  HEAD / 200 in 24ms
+Aug 30 07:40:10 pjlzc npm[835]:  HEAD / 200 in 23ms
+Aug 30 07:40:13 pjlzc npm[835]:  HEAD / 200 in 24ms
+Aug 30 07:40:15 pjlzc npm[835]:  ✓ Compiled in 552ms (323 modules)
+Aug 30 07:40:17 pjlzc npm[835]:  HEAD / 200 in 33ms
+Aug 30 07:40:20 pjlzc npm[835]:  HEAD / 200 in 25ms
+Aug 30 07:40:23 pjlzc npm[835]:  HEAD / 200 in 22ms
+Aug 30 07:40:26 pjlzc npm[835]:  HEAD / 200 in 28ms
+Aug 30 07:40:27 pjlzc npm[835]:  ✓ Compiled in 168ms (323 modules)
+Aug 30 07:40:27 pjlzc npm[835]:  ✓ Compiled in 102ms (323 modules)
+Aug 30 07:40:29 pjlzc npm[835]:  HEAD / 200 in 26ms
+Aug 30 07:40:32 pjlzc npm[835]:  HEAD / 200 in 25ms
+Aug 30 07:40:35 pjlzc npm[835]:  ✓ Compiled in 206ms (323 modules)
+Aug 30 07:40:35 pjlzc npm[835]:  HEAD / 200 in 28ms
+Aug 30 07:40:38 pjlzc npm[835]:  HEAD / 200 in 30ms
+Aug 30 07:40:41 pjlzc npm[835]:  HEAD / 200 in 22ms
+Aug 30 07:40:44 pjlzc npm[835]:  HEAD / 200 in 22ms
+Aug 30 07:40:47 pjlzc npm[835]:  HEAD / 200 in 22ms
+Aug 30 07:40:50 pjlzc npm[835]:  HEAD / 200 in 27ms
+Aug 30 07:40:53 pjlzc npm[835]:  HEAD / 200 in 24ms
+Aug 30 07:40:56 pjlzc npm[835]:  HEAD / 200 in 23ms
+Aug 30 07:40:59 pjlzc npm[835]:  ✓ Compiled in 117ms (323 modules)
+Aug 30 07:40:59 pjlzc npm[835]:  HEAD / 200 in 25ms
+Aug 30 07:41:02 pjlzc npm[835]:  HEAD / 200 in 25ms
+Aug 30 07:41:05 pjlzc npm[835]:  HEAD / 200 in 23ms
+Aug 30 07:41:09 pjlzc npm[835]:  HEAD / 200 in 23ms
+Aug 30 07:41:11 pjlzc npm[835]:  HEAD / 200 in 27ms
+Aug 30 07:41:13 pjlzc npm[835]:  ✓ Compiled in 82ms (323 modules)
+Aug 30 07:41:14 pjlzc npm[835]:  HEAD / 200 in 25ms
+Aug 30 07:41:15 pjlzc npm[835]:  GET /?_refresh=2 200 in 33ms
+Aug 30 07:41:25 pjlzc npm[835]:  ✓ Compiled in 109ms (323 modules)
+Aug 30 07:41:26 pjlzc npm[835]:  GET /?_refresh=3 200 in 38ms
+Aug 30 07:41:26 pjlzc npm[835]:  GET /?_refresh=4 200 in 31ms
+Aug 30 07:41:45 pjlzc npm[835]:  ✓ Compiled in 83ms (323 modules)
+Aug 30 07:41:45 pjlzc npm[835]:  GET /?_refresh=5 200 in 32ms
+Aug 30 07:41:45 pjlzc npm[835]:  GET /?_refresh=6 200 in 32ms
+Aug 30 07:42:05 pjlzc npm[835]:  HEAD / 200 in 25ms
+Aug 30 07:42:06 pjlzc npm[835]:  ✓ Compiled in 102ms (323 modules)
+Aug 30 07:42:07 pjlzc npm[835]:  GET /?_refresh=7 200 in 38ms
+Aug 30 07:42:07 pjlzc npm[835]:  GET /?_refresh=8 200 in 36ms
+Aug 30 07:42:24 pjlzc npm[835]:  ✓ Compiled in 86ms (323 modules)
+Aug 30 07:42:24 pjlzc npm[835]:  ✓ Compiled in 397ms (899 modules)
+Aug 30 07:42:25 pjlzc npm[835]:  GET /?_refresh=9 200 in 174ms
+Aug 30 07:42:25 pjlzc npm[835]:  GET /?_refresh=10 200 in 37ms
+Aug 30 07:42:41 pjlzc npm[835]:  ✓ Compiled in 104ms (323 modules)
+Aug 30 07:42:41 pjlzc npm[835]:  ✓ Compiled in 163ms (899 modules)
+Aug 30 07:42:41 pjlzc npm[835]:  GET /?_refresh=11 200 in 132ms
+Aug 30 07:42:42 pjlzc npm[835]:  GET /?_refresh=12 200 in 63ms
+Aug 30 07:43:01 pjlzc npm[835]:  ✓ Compiled in 168ms (323 modules)
+Aug 30 07:43:01 pjlzc npm[835]:  ✓ Compiled in 247ms (899 modules)
+Aug 30 07:43:02 pjlzc npm[835]:  GET /?_refresh=13 200 in 164ms
+Aug 30 07:43:02 pjlzc npm[835]:  GET /?_refresh=14 200 in 40ms
+Aug 30 07:43:05 pjlzc npm[835]:  HEAD / 200 in 38ms
+Aug 30 07:43:24 pjlzc npm[835]:  ✓ Compiled in 148ms (323 modules)
+Aug 30 07:43:25 pjlzc npm[835]:  ✓ Compiled in 418ms (899 modules)
+Aug 30 07:43:25 pjlzc npm[835]:  GET /?_refresh=15 200 in 133ms
+Aug 30 07:43:25 pjlzc npm[835]:  GET /?_refresh=16 200 in 39ms
+Aug 30 07:43:57 pjlzc npm[835]:  ✓ Compiled in 168ms (323 modules)
+Aug 30 07:43:58 pjlzc npm[835]:  GET /?_refresh=17 200 in 43ms
+Aug 30 07:43:58 pjlzc npm[835]:  GET /?_refresh=18 200 in 39ms
+Aug 30 07:44:05 pjlzc npm[835]:  HEAD / 200 in 47ms
+Aug 30 07:44:33 pjlzc npm[835]:  ✓ Compiled in 152ms (323 modules)
+Aug 30 07:44:34 pjlzc npm[835]:  GET /?_refresh=19 200 in 49ms
+Aug 30 07:44:34 pjlzc npm[835]:  GET /?_refresh=20 200 in 33ms
+Aug 30 07:45:05 pjlzc npm[835]:  HEAD / 200 in 29ms
+Aug 30 07:45:14 pjlzc npm[835]:  ✓ Compiled in 146ms (323 modules)
+Aug 30 07:45:15 pjlzc npm[835]:  GET /?_refresh=21 200 in 38ms
+Aug 30 07:45:15 pjlzc npm[835]:  GET /?_refresh=22 200 in 34ms
+Aug 30 07:45:21 pjlzc npm[835]:  HEAD / 200 in 24ms
+Aug 30 07:45:22 pjlzc npm[835]:  HEAD / 200 in 28ms
+Aug 30 07:45:25 pjlzc npm[835]:  HEAD / 200 in 30ms
+Aug 30 07:45:28 pjlzc npm[835]:  HEAD / 200 in 27ms
+Aug 30 07:45:31 pjlzc npm[835]:  HEAD / 200 in 29ms
+Aug 30 07:45:34 pjlzc npm[835]:  HEAD / 200 in 24ms
+Aug 30 07:45:37 pjlzc npm[835]:  HEAD / 200 in 30ms
+Aug 30 07:45:40 pjlzc npm[835]:  HEAD / 200 in 23ms
+Aug 30 07:45:43 pjlzc npm[835]:  ✓ Compiled in 173ms (323 modules)
+Aug 30 07:45:43 pjlzc npm[835]:  HEAD / 200 in 26ms
+Aug 30 07:45:44 pjlzc npm[835]:  GET /?_refresh=23 200 in 31ms
+Aug 30 07:45:44 pjlzc npm[835]:  GET /?_refresh=24 200 in 56ms
+Aug 30 07:45:46 pjlzc npm[835]:  HEAD / 200 in 26ms
+Aug 30 07:45:49 pjlzc npm[835]:  HEAD / 200 in 27ms
+Aug 30 07:45:52 pjlzc npm[835]:  HEAD / 200 in 27ms
+Aug 30 07:45:55 pjlzc npm[835]:  HEAD / 200 in 23ms
+Aug 30 07:45:58 pjlzc npm[835]:  HEAD / 200 in 23ms
+Aug 30 07:46:01 pjlzc npm[835]:  HEAD / 200 in 25ms
+Aug 30 07:46:05 pjlzc npm[835]:  HEAD / 200 in 30ms
+Aug 30 07:46:08 pjlzc npm[835]:  HEAD / 200 in 23ms
+Aug 30 07:46:11 pjlzc npm[835]:  HEAD / 200 in 27ms
+Aug 30 07:46:14 pjlzc npm[835]:  HEAD / 200 in 28ms
+Aug 30 07:46:17 pjlzc npm[835]:  HEAD / 200 in 23ms
+Aug 30 07:46:20 pjlzc npm[835]:  HEAD / 200 in 27ms
+Aug 30 07:46:23 pjlzc npm[835]:  HEAD / 200 in 23ms
+Aug 30 07:46:26 pjlzc npm[835]:  HEAD / 200 in 23ms
+Aug 30 07:46:29 pjlzc npm[835]:  HEAD / 200 in 23ms
+Aug 30 07:46:36 pjlzc npm[835]:  ⨯ ./app/components/MetricsChart.tsx:17:1
+Aug 30 07:46:36 pjlzc npm[835]: Module not found: Can't resolve 'chartjs-adapter-date-fns'
+Aug 30 07:46:36 pjlzc npm[835]:   15 | } from 'chart.js';
+Aug 30 07:46:36 pjlzc npm[835]:   16 | import { Line } from 'react-chartjs-2';
+Aug 30 07:46:36 pjlzc npm[835]: > 17 | import 'chartjs-adapter-date-fns';
+Aug 30 07:46:36 pjlzc npm[835]:      | ^
+Aug 30 07:46:36 pjlzc npm[835]:   18 | import { EnvironmentalReading } from '@/lib/types';
+Aug 30 07:46:36 pjlzc npm[835]:   19 | import { getThresholds, APP_CONFIG } from '@/lib/config';
+Aug 30 07:46:36 pjlzc npm[835]:   20 |
+Aug 30 07:46:36 pjlzc npm[835]: https://nextjs.org/docs/messages/module-not-found
+Aug 30 07:46:36 pjlzc npm[835]: Import trace for requested module:
+Aug 30 07:46:36 pjlzc npm[835]: ./app/page.tsx
+Aug 30 07:46:37 pjlzc npm[835]:  HEAD / 500 in 4769ms
+Aug 30 07:46:40 pjlzc npm[835]:  HEAD / 500 in 4712ms
+Aug 30 07:46:40 pjlzc npm[835]:  GET /?_refresh=26 500 in 7464ms
+Aug 30 07:46:42 pjlzc npm[835]:  HEAD / 500 in 2997ms
+Aug 30 07:46:45 pjlzc npm[835]:  HEAD / 500 in 3256ms
+Aug 30 07:46:46 pjlzc npm[835]:  ○ Compiling /_error ...
+Aug 30 07:46:51 pjlzc npm[835]:  GET /?_refresh=28 500 in 8847ms
+Aug 30 07:47:00 pjlzc npm[835]:  ⨯ ./app/components/MetricsChart.tsx:17:1
+Aug 30 07:47:00 pjlzc npm[835]: Module not found: Can't resolve 'chartjs-adapter-date-fns'
+Aug 30 07:47:00 pjlzc npm[835]:   15 | } from 'chart.js';
+Aug 30 07:47:00 pjlzc npm[835]:   16 | import { Line } from 'react-chartjs-2';
+Aug 30 07:47:00 pjlzc npm[835]: > 17 | import 'chartjs-adapter-date-fns';
+Aug 30 07:47:00 pjlzc npm[835]:      | ^
+Aug 30 07:47:00 pjlzc npm[835]:   18 | import { EnvironmentalReading } from '@/lib/types';
+Aug 30 07:47:00 pjlzc npm[835]:   19 | import { getThresholds, APP_CONFIG } from '@/lib/config';
+Aug 30 07:47:00 pjlzc npm[835]:   20 |
+Aug 30 07:47:00 pjlzc npm[835]: https://nextjs.org/docs/messages/module-not-found
+Aug 30 07:47:00 pjlzc npm[835]: Import trace for requested module:
+Aug 30 07:47:00 pjlzc npm[835]: ./app/page.tsx
+Aug 30 07:47:00 pjlzc npm[835]:  ⨯ ./app/components/MetricsChart.tsx:17:1
+Aug 30 07:47:00 pjlzc npm[835]: Module not found: Can't resolve 'chartjs-adapter-date-fns'
+Aug 30 07:47:00 pjlzc npm[835]:   15 | } from 'chart.js';
+Aug 30 07:47:00 pjlzc npm[835]:   16 | import { Line } from 'react-chartjs-2';
+Aug 30 07:47:00 pjlzc npm[835]: > 17 | import 'chartjs-adapter-date-fns';
+Aug 30 07:47:00 pjlzc npm[835]:      | ^
+Aug 30 07:47:00 pjlzc npm[835]:   18 | import { EnvironmentalReading } from '@/lib/types';
+Aug 30 07:47:00 pjlzc npm[835]:   19 | import { getThresholds, APP_CONFIG } from '@/lib/config';
+Aug 30 07:47:00 pjlzc npm[835]:   20 |
+Aug 30 07:47:00 pjlzc npm[835]: https://nextjs.org/docs/messages/module-not-found
+Aug 30 07:47:00 pjlzc npm[835]: Import trace for requested module:
+Aug 30 07:47:00 pjlzc npm[835]: ./app/page.tsx
+Aug 30 07:47:00 pjlzc npm[835]:  HEAD / 500 in 1336ms
+Aug 30 07:47:00 pjlzc npm[835]:  HEAD / 500 in 3961ms
+Aug 30 07:47:01 pjlzc npm[835]:  GET /?_refresh=32 500 in 830ms
+Aug 30 07:47:02 pjlzc npm[835]: <w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename '/template/.next/cache/webpack/client-development-fallback/0.pack.gz_' -> '/template/.next/cache/webpack/client-development-fallback/0.pack.gz'
+Aug 30 07:47:02 pjlzc npm[835]: <w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename '/template/.next/cache/webpack/client-development-fallback/0.pack.gz_' -> '/template/.next/cache/webpack/client-development-fallback/0.pack.gz'
+Aug 30 07:47:02 pjlzc npm[835]: <w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename '/template/.next/cache/webpack/client-development-fallback/0.pack.gz_' -> '/template/.next/cache/webpack/client-development-fallback/0.pack.gz'
+Aug 30 07:47:02 pjlzc npm[835]: <w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename '/template/.next/cache/webpack/client-development-fallback/0.pack.gz_' -> '/template/.next/cache/webpack/client-development-fallback/0.pack.gz'
+Aug 30 07:47:02 pjlzc npm[835]: <w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename '/template/.next/cache/webpack/client-development-fallback/0.pack.gz_' -> '/template/.next/cache/webpack/client-development-fallback/0.pack.gz'
+Aug 30 07:47:05 pjlzc npm[835]:  HEAD / 500 in 11ms
+Aug 30 07:48:02 pjlzc npm[835]:  GET /?_refresh=33 500 in 26ms
+Aug 30 07:48:03 pjlzc npm[835]:  GET /?_refresh=34 500 in 13ms
+Aug 30 07:48:03 pjlzc npm[835]:  HEAD / 500 in 11ms
+Aug 30 07:48:04 pjlzc npm[835]:  HEAD / 500 in 21ms
+Aug 30 07:48:07 pjlzc npm[835]:  HEAD / 500 in 10ms
+Aug 30 07:48:10 pjlzc npm[835]:  HEAD / 500 in 16ms
